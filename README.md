@@ -1,2 +1,0 @@
-# hotsreplays
-HOTS replays
